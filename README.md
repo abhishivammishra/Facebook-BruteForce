@@ -10,7 +10,7 @@ Bruteforce attack for Facebook Account
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone https://github.com/abhishivammishra/Facebook-BruteForce.git
 >> cd Facebook-BruteForce
 >> pip3 install requests bs4
 >> pip install mechanize
